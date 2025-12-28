@@ -6,7 +6,7 @@ The aim of the project is to predict product sales across different BigMart outl
 
 I implemented the complete workflow in Python using a Jupyter Notebook, and trained the model using XGBRegressor (XGBoost) for accurate regression performance.
 
-## 🌐 Live App: https://samyak2475-sales-prediction-model-app-rml484.streamlit.app/
+ 🌐 Live App: https://samyak2475-sales-prediction-model-app-rml484.streamlit.app/
 
 
 ## 🎯 Objective
