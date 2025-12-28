@@ -1,8 +1,13 @@
 # 📊 Sales Prediction Model (BigMart)
+[![Streamlit App](https://img.shields.io/badge/🚀%20Launch-App-red?style=for-the-badge)](https://samyak2475-sales-prediction-model-app-rml484.streamlit.app/)
+
 ### In this project, I built a machine learning–based sales prediction system using the BigMart sales dataset.
 The aim of the project is to predict product sales across different BigMart outlets by learning patterns from historical data.
 
 I implemented the complete workflow in Python using a Jupyter Notebook, and trained the model using XGBRegressor (XGBoost) for accurate regression performance.
+
+## 🌐 Live App: https://samyak2475-sales-prediction-model-app-rml484.streamlit.app/
+
 
 ## 🎯 Objective
 
